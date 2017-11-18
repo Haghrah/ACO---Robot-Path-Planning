@@ -1,5 +1,5 @@
 # ACO - Robot Path Planning
-Simulation of the paper [1] which has used Ant Colony Optimization Algorithm algorithm for robot path planning ...
+Simulation of the paper [1] which has used Ant Colony Optimization algorithm for robot path planning ...
 
 References
 
